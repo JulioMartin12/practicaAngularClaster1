@@ -7,12 +7,6 @@ export type producto = {
   price: number,
 
 };
-/* export type producto = {
-  name: string,
- price: string,
-} */
-
-
 
 
 @Component({

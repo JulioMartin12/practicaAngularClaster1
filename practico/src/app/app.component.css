@@ -19,3 +19,17 @@
     justify-content: center;
    
   }
+
+  .tabla-oculta{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px ;
+  }
+
+  .tabla-oculta h2{
+    font-size: 6rem;
+    color:lightgray;
+    font-weight: 700;
+
+  }
