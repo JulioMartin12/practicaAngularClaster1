@@ -1,0 +1,21 @@
+.titulo{
+    text-align: center;
+    margin-top: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+  .btn{
+    display: flex;
+    justify-content: center;
+  }
+
+  table{
+    width: 60vw;
+  }
+  
+  .size-tabla{
+    display:flex;
+    justify-content: center;
+   
+  }
